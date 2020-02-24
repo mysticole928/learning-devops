@@ -4,7 +4,9 @@ DevOps is a collective body of knowledge that outlines how product owners, QA IT
 
 By working towards a common goal, DevOps enables the rapid deployment of planned work into production while keeping it stable, available, and secure.
 
-It is by practicioners, for practitioners.
+Developed by practicioners, for practitioners, DevOps is a philosophy that guides the efficient development, deployment, and operation of software.
+
+There is no single "right" way to implement DevOps.  
 
 > "DevOps, in a sense, is about setting up "a value delivery factory - a streamlined, "waste-free pipeline through which value "can be delivered to the business "with a predictably fast cycle time." 
 > 
